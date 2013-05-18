@@ -1,3 +1,11 @@
+# Deprecated
+
+I no longer work with CakePHP and haven't worked on this repo in
+some time. The original author of this plugin has deprecated his
+own version in favor of josegonzalez' "upload" plugin:
+
+https://github.com/josegonzalez/upload
+
 # MeioUpload 2.0 Behavior Plugin
 
 This behavior provides to upload files in your application, as well as the possibility to translate the error message (originally only in portuguese) and the use of phpThumb as a better thumbnail generator.
